@@ -4,6 +4,7 @@ body{
   font-size: 18px;
   font-family: Roboto;
   text-align: center;
+  margin: 0;
 }
 
 h1{
@@ -64,4 +65,8 @@ a:hover {
 
 .social{
     color: white;
+}
+
+.btn btn-primary{
+  text-align: center;
 }
